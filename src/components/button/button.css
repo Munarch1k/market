@@ -1,0 +1,25 @@
+.btn {
+    padding: 4px 10px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    transition: 0.5s;
+    box-shadow: 1px 1px 10px rgb(0, 255, 8);
+    background-color: green;
+}
+
+.btn-secondary {
+    background-color: red;
+    box-shadow: 1px 1px 10px red;
+}
+
+
+
+.btn-primary {
+    background-color: blue;
+    
+}
